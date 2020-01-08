@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578369279 source:c:\users\86189\codeblocks\c程\实验第一题\main.c
+	<stdio.h>
+	<stdlib.h>
+
